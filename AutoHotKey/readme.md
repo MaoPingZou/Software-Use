@@ -3,6 +3,7 @@
 
 目前我最常用到的脚本是：
 ```shell
+# 文件名是以 .ahk 结尾
 CapsLock::Esc
 Esc::CapsLock
 ```
