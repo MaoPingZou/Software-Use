@@ -1,0 +1,7 @@
+- emacs
+  - 官网：https://www.gnu.org/software/emacs/
+- spacemacs
+  - Emacs与Vim的结合体
+  - 官网：https://www.spacemacs.org/
+- org mode
+  - 官网：https://orgmode.org/
