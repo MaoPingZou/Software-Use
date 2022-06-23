@@ -1,0 +1,19 @@
+# Mac OS 系统常用快捷键
+
+## 文本操作
+### 行级别的操作
+- Control–A：移至行或段落的开头。
+- Control–E：移至行或段落的末尾。
+- Control–P：上移一行。
+- Control–N：下移一行。
+- Control-K：删除插入点与行或段落末尾处之间的文本。
+- Control–O：在插入点后新插入一行。
+
+### 子母级别的操作
+- Control-H：删除插入点左边的字符。也可以使用 Delete 键。
+- Control-D：删除插入点右边的字符。也可以使用 Fn-Delete。
+- Control–F：向前移动一个字符。
+- Control–B：向后移动一个字符。
+
+## Finder
+- Command-N：打开一个新的“访达”窗口。
